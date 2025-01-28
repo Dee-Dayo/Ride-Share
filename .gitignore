@@ -33,7 +33,7 @@ build/
 
 ### VS Code ###
 .vscode/
-
+user-service/src/main/resources/secrets.properties
 
 ### Mac OS ###
 .DS_Store
