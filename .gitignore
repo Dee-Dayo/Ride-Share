@@ -33,6 +33,8 @@ build/
 
 ### VS Code ###
 .vscode/
+C:\Users\DELL\Desktop\rideshare\user-service\src\main\resources\secrets.properties
+
 
 ### Mac OS ###
 .DS_Store
